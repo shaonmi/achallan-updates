@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.3/A-Challan-Assistant-v1.1.3-windows.zip",
+  "version": "1.1.4",
+  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.4/A-Challan-Assistant-v1.1.4-windows.zip",
   "min_supported_version": "1.0.0",
-  "sha256": "b22ff65830156d1c3f00cb666fc54b264885435963c0e163e74d84e617c3d3e8",
-  "notes": "v1.1.3 \u2014 Renamed Executable to A-Challan-Assistant & Fixed Auto-Updater Target"
+  "sha256": "6b1578141f562aa8810e164d3a0d9e8eb164303bb39edc73816d382025ae33a2",
+  "notes": "v1.1.4 \u2014 Rock-Solid Retry-Loop Auto-Updater & Clean Single-File Package"
 }
