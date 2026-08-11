@@ -1,6 +1,6 @@
 {
   "version": "1.1.2",
-  "download_url": "https://github.com/shaonmi/A-Challan-Assistant/releases/download/v1.1.2/A-Challan-AutoBot-v1.1.2-windows.zip",
+  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.2/A-Challan-AutoBot-v1.1.2-windows.zip",
   "min_supported_version": "1.0.0",
   "sha256": "62fbdcddeea286fe50f8654282c110c822608873d04a147ee126c38c342727cc",
   "notes": "v1.1.2 \u2014 Auth0 Hardware Fingerprint Device Binding & Seat Control"
