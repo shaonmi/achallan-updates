@@ -1,7 +1,7 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/shaonmi/A-Challan-Assistant/releases/download/v1.1.1/A-Challan-AutoBot-v1.1.1-windows.zip",
+  "version": "1.1.2",
+  "download_url": "https://github.com/shaonmi/A-Challan-Assistant/releases/download/v1.1.2/A-Challan-AutoBot-v1.1.2-windows.zip",
   "min_supported_version": "1.0.0",
-  "sha256": "d631848340d08687fd96f7ecd120dd10e5b694a3e16b84eae8c037bea8d4f65e",
-  "notes": "v1.1.1 \u2014 Fixed Auth0 Token Audience Verification"
+  "sha256": "62fbdcddeea286fe50f8654282c110c822608873d04a147ee126c38c342727cc",
+  "notes": "v1.1.2 \u2014 Auth0 Hardware Fingerprint Device Binding & Seat Control"
 }
