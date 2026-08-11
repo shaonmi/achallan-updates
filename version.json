@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.7/A-Challan-Assistant-v1.1.7-windows.zip",
+  "version": "1.1.8",
+  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.8/A-Challan-Assistant-v1.1.8-windows.zip",
   "min_supported_version": "1.0.0",
-  "notes": "v1.1.7 \u2014 Silent background updater (no CMD window), 30-retry limit prevents hang, auto-cleans _internal & screenshots on update",
-  "sha256": "56b9027d3b405dfc565c4e6cff24e2aeb07c6ce66abe7ee5d6861859b115675c"
+  "notes": "v1.1.8 \u2014 Replaced CMD batch updater with hidden PowerShell script for 100% reliable silent auto-update",
+  "sha256": "bfe521c89dfe7a21b226692f299d54ca146d6066b81aa45f4f6820fa4a864313"
 }
