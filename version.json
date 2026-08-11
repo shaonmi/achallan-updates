@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.6/A-Challan-Assistant-v1.1.6-windows.zip",
+  "version": "1.1.7",
+  "download_url": "https://github.com/shaonmi/achallan-updates/releases/download/v1.1.7/A-Challan-Assistant-v1.1.7-windows.zip",
   "min_supported_version": "1.0.0",
-  "notes": "v1.1.6 \u2014 Fixed _internal DLL conflict, cleaned app folder on update, screenshots moved to system temp",
-  "sha256": "73839e624fa41380a78e570a5b1695531a3b22ec261d50bd53e547c555b2da43"
+  "notes": "v1.1.7 \u2014 Silent background updater (no CMD window), 30-retry limit prevents hang, auto-cleans _internal & screenshots on update",
+  "sha256": "56b9027d3b405dfc565c4e6cff24e2aeb07c6ce66abe7ee5d6861859b115675c"
 }
